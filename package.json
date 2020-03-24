@@ -1,0 +1,24 @@
+{
+  "name": "npm-lib-estudo",
+  "version": "1.0.0",
+  "description": "Testando a publicação de libs",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leandroprog/npm-lib-estudo.git"
+  },
+  "keywords": [
+    "teste",
+    "lib",
+    "estudo"
+  ],
+  "author": "Leandro Rocha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leandroprog/npm-lib-estudo/issues"
+  },
+  "homepage": "https://github.com/leandroprog/npm-lib-estudo#readme"
+}
